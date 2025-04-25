@@ -1,0 +1,12 @@
+.card {
+  background-color: aqua;
+  padding: 100px 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}

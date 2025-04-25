@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  background-color: rgb(47, 119, 119);
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 3rem;
+}
+
+header a {
+  margin-left: 2rem;
+  text-decoration: none;
+  color: aliceblue;
+}
